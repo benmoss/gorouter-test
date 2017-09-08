@@ -1,0 +1,5 @@
+---
+applications:
+  - name: gorouter-test
+    env:
+      GOPACKAGENAME: github.com/benmoss/gorouter-test
